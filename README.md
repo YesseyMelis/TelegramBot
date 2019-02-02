@@ -14,4 +14,4 @@ We are learning how to create a bot. But this is not the most difficult. It is d
 >>- Use some kind of NoSQL database (firebase or local something).
 >>- Deploy to some kind of hosting (Digital Ocean, AWS, Heroku).
 ###### "The project may be on a free topic, but must be approved by us." ######
->Here is a link to our Telegram bot: [Bot]: https://web.telegram.org/#/im?p=%40killThem_bot"Do not pay attention to the namesX)"
+>Here is a link to our Telegram bot: [Bot]: https://web.telegram.org/#/im?p=%40killThem_bot "Do not pay attention to the namesX)"
