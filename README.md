@@ -1,6 +1,6 @@
 # TelegramBot
 We in our organization are learning how to create Telegram bots. This is an open source, and you can see our development, success in this area. Good luck to us all;)
-![alt text](https://github.com/turingorganization/TelegramBot/blob/master/OurBotPhoto.png)
+![alt text](https://github.com/YesseyMelis/TelegramBot/blob/master/OurBotPhoto.png)
 # First Time
 We are learning how to create a bot. But this is not the most difficult. It is difficult to tune it. We write snippets on Python. Including library request.  
 >Here are our tasks set by higher forces:  
