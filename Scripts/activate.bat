@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\Acer\Desktop\IIsemestr\turing\telegrambot\my_env"
+set "VIRTUAL_ENV=C:\Users\Acer\Desktop\tb\my_env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
